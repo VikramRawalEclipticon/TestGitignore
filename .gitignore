@@ -1,0 +1,9 @@
+# Pods directory
+Pods/
+# Ignore build artifacts
+build/
+DerivedData/
+# Xcode project files
+xcuserdata/
+# Cocoapods lock file (optional if you want others to install pods themselves)
+Podfile.lock
